@@ -1,0 +1,14 @@
+C:\Users\nicol\source\repos\Assignment4\Prob8.3\bin\Debug\Prob8.3.exe.config
+C:\Users\nicol\source\repos\Assignment4\Prob8.3\bin\Debug\Prob8.3.exe
+C:\Users\nicol\source\repos\Assignment4\Prob8.3\bin\Debug\Prob8.3.pdb
+C:\Users\nicol\source\repos\Assignment4\Prob8.3\obj\Debug\Prob8.3.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\Assignment4\Prob8.3\obj\Debug\Prob8.3.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Assignment4\Prob8.3\obj\Debug\Prob8.3.exe
+C:\Users\nicol\source\repos\Assignment4\Prob8.3\obj\Debug\Prob8.3.pdb
+C:\Users\munta\OneDrive\Documents\Prob8.3\bin\Debug\Prob8.3.exe.config
+C:\Users\munta\OneDrive\Documents\Prob8.3\bin\Debug\Prob8.3.exe
+C:\Users\munta\OneDrive\Documents\Prob8.3\bin\Debug\Prob8.3.pdb
+C:\Users\munta\OneDrive\Documents\Prob8.3\obj\Debug\Prob8.3.csproj.AssemblyReference.cache
+C:\Users\munta\OneDrive\Documents\Prob8.3\obj\Debug\Prob8.3.csproj.CoreCompileInputs.cache
+C:\Users\munta\OneDrive\Documents\Prob8.3\obj\Debug\Prob8.3.exe
+C:\Users\munta\OneDrive\Documents\Prob8.3\obj\Debug\Prob8.3.pdb
