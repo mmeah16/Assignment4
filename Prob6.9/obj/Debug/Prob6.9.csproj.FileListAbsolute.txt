@@ -1,0 +1,10 @@
+C:\Users\munta\source\repos\Assignment4\Prob6.9\bin\Debug\Prob6.9.exe.config
+C:\Users\munta\source\repos\Assignment4\Prob6.9\bin\Debug\Prob6.9.exe
+C:\Users\munta\source\repos\Assignment4\Prob6.9\bin\Debug\Prob6.9.pdb
+C:\Users\munta\source\repos\Assignment4\Prob6.9\obj\Debug\Prob6.9.csproj.AssemblyReference.cache
+C:\Users\munta\source\repos\Assignment4\Prob6.9\obj\Debug\Prob6._9.Form1.resources
+C:\Users\munta\source\repos\Assignment4\Prob6.9\obj\Debug\Prob6._9.Properties.Resources.resources
+C:\Users\munta\source\repos\Assignment4\Prob6.9\obj\Debug\Prob6.9.csproj.GenerateResource.cache
+C:\Users\munta\source\repos\Assignment4\Prob6.9\obj\Debug\Prob6.9.csproj.CoreCompileInputs.cache
+C:\Users\munta\source\repos\Assignment4\Prob6.9\obj\Debug\Prob6.9.exe
+C:\Users\munta\source\repos\Assignment4\Prob6.9\obj\Debug\Prob6.9.pdb

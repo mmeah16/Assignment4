@@ -1,0 +1,14 @@
+C:\Users\nicol\source\repos\Assignment4\Prob7.6\bin\Debug\Prob7.6.exe.config
+C:\Users\nicol\source\repos\Assignment4\Prob7.6\bin\Debug\Prob7.6.exe
+C:\Users\nicol\source\repos\Assignment4\Prob7.6\bin\Debug\Prob7.6.pdb
+C:\Users\nicol\source\repos\Assignment4\Prob7.6\obj\Debug\Prob7.6.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\Assignment4\Prob7.6\obj\Debug\Prob7.6.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Assignment4\Prob7.6\obj\Debug\Prob7.6.exe
+C:\Users\nicol\source\repos\Assignment4\Prob7.6\obj\Debug\Prob7.6.pdb
+C:\Users\munta\OneDrive\Documents\Prob7.6\bin\Debug\Prob7.6.exe.config
+C:\Users\munta\OneDrive\Documents\Prob7.6\bin\Debug\Prob7.6.exe
+C:\Users\munta\OneDrive\Documents\Prob7.6\bin\Debug\Prob7.6.pdb
+C:\Users\munta\OneDrive\Documents\Prob7.6\obj\Debug\Prob7.6.csproj.AssemblyReference.cache
+C:\Users\munta\OneDrive\Documents\Prob7.6\obj\Debug\Prob7.6.csproj.CoreCompileInputs.cache
+C:\Users\munta\OneDrive\Documents\Prob7.6\obj\Debug\Prob7.6.exe
+C:\Users\munta\OneDrive\Documents\Prob7.6\obj\Debug\Prob7.6.pdb
